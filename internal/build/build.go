@@ -1,6 +1,6 @@
 // Package build provides build information about [the wordpress package].
 //
-// [the wordpress package]: https://git.sr.ht/~jamesponddotco/bunnystorage-go
+// [the wordpress package]: https://git.sr.ht/~jamesponddotco/wordpress-go
 package build
 
 const (
